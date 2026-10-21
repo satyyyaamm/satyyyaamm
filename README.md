@@ -1,348 +1,449 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:242424,100:050505&text=SATYAM%20TIWARI&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=FLUTTER%20DEVELOPER%20%20%E2%80%A2%20%20PRODUCT%20ENGINEER&descSize=14&descAlignY=58&descColor=C4C4C4&animation=fadeIn&stroke=777777&strokeWidth=1" width="100%" alt="Animated monochrome header"/>
+
 # SATYAM TIWARI
 
-**Flutter Developer · Product-Focused Engineer**
+### Building products. Engineering experiences. Shipping with purpose.
 
-I build mobile and web products from idea to release — with a focus on thoughtful architecture, reliable integrations, and user experiences that solve real problems.
+<a href="https://www.buildwithsatyam.in"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/satyam-tiwari-a03299200/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn"/></a>
+<a href="mailto:satyamt5152@gmail.com"><img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email"/></a>
+<a href="https://github.com/satyyyaamm"><img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/></a>
 
-[Portfolio](https://www.buildwithsatyam.in) · [LinkedIn](https://www.linkedin.com/in/satyam-tiwari-a03299200/) · [GitHub](https://github.com/satyyyaamm) · [Email](mailto:satyamt5152@gmail.com)
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=satyyyaamm&style=flat-square&color=777777&label=PROFILE+VIEWS)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=BDBDBD&center=true&vCenter=true&width=700&lines=Flutter+%26+Dart+Engineer;Turning+Ideas+Into+Working+Products;Mobile+%7C+Web+%7C+Firebase;Building+With+Purpose%2C+Not+Just+Code" alt="Animated typing introduction"/>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=satyyyaamm&style=flat-square&color=333333&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 01 / ABOUT
+<div align="center">
 
-I'm a product-focused software developer based in Pune, India, with **5 years of experience** building applications across mobile and web.
+`01 — THE DEVELOPER` &nbsp; · &nbsp; `02 — THE TOOLKIT` &nbsp; · &nbsp; `03 — THE WORK` &nbsp; · &nbsp; `04 — THE JOURNEY`
 
-My core expertise is Flutter and Dart. I've worked across the product lifecycle — translating requirements into architecture, developing features, integrating APIs and backend services, shipping releases, and maintaining applications after launch.
+</div>
 
-I also work with React, Next.js, Node.js, and Firebase when a product needs more than a mobile application.
+## 01 / THE DEVELOPER
 
-- **Primary focus:** Flutter, Dart, cross-platform application development
-- **Product experience:** From early-stage MVPs to production applications
-- **Architecture:** Maintainable code, state management, routing, API integration
-- **Backend & services:** Firebase, REST APIs, authentication, notifications
-- **Additional engineering:** React, Next.js, TypeScript, Node.js
-- **Location:** Pune, India · Open to remote opportunities
+<img align="right" width="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyyyaamm&layout=donut&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=BDBDBD&langs_count=5" alt="Top languages"/>
 
-I care about building software that is practical to maintain, clear to navigate, and ready for real users.
+I'm **Satyam Tiwari**, a product-focused software engineer based in Pune, India, with **5 years of experience** building mobile and web applications.
 
----
+My core expertise is Flutter and Dart, but I think beyond the framework. I enjoy understanding the problem, shaping the architecture, building the experience, integrating the backend, and getting products ready for real users.
 
-## 02 / TECHNICAL STACK
+From operational platforms and navigation apps to personal-safety and nutrition products, I've worked across different stages of product development.
 
-### Mobile development
+- ◈ **Core:** Flutter & Dart
+- ◈ **Architecture:** Riverpod, GoRouter, maintainable feature structures
+- ◈ **Backend:** Firebase, REST APIs, Node.js
+- ◈ **Web:** React, Next.js, TypeScript
+- ◈ **Special interests:** Offline workflows, BLE integrations, product engineering
+- ◈ **Based in:** Pune, India · Open to remote opportunities
 
-![Flutter](https://img.shields.io/badge/Flutter-111111?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-111111?style=flat-square&logo=dart&logoColor=white)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-111111?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-111111?style=flat-square&logo=android&logoColor=white)
+<br clear="right"/>
 
-### State management and navigation
-
-![Riverpod](https://img.shields.io/badge/Riverpod-111111?style=flat-square)
-![GoRouter](https://img.shields.io/badge/GoRouter-111111?style=flat-square)
-
-### Frontend development
-
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
-
-### Backend and data
-
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat-square&logo=firebase&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-111111?style=flat-square&logo=sqlite&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-111111?style=flat-square)
-
-### Integrations and delivery
-
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-111111?style=flat-square)
-![Push Notifications](https://img.shields.io/badge/Push_Notifications-111111?style=flat-square)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![App Store Connect](https://img.shields.io/badge/App_Store_Connect-111111?style=flat-square&logo=appstore&logoColor=white)
-![TestFlight](https://img.shields.io/badge/TestFlight-111111?style=flat-square&logo=testflight&logoColor=white)
+> I don't just want to make features work. I want to build products that are useful, dependable, and easy to evolve.
 
 ---
 
-## 03 / WHAT I DO
+## 02 / THE TOOLKIT
 
-| Area | Focus |
+<div align="center">
+
+### MOBILE ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,android&theme=dark" alt="Flutter, Dart and Android"/>
+
+### FRONTEND & WEB
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js&theme=dark" alt="Frontend technologies"/>
+
+### BACKEND & DATA
+
+<img src="https://skillicons.dev/icons?i=firebase,nodejs,django,mongodb,sqlite&theme=dark" alt="Backend and data technologies"/>
+
+### TOOLS & DELIVERY
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,apple&theme=dark" alt="Development tools"/>
+
+</div>
+
+<details>
+<summary><strong>View my technical focus areas</strong></summary>
+
+| Area | Technologies and experience |
 |:--|:--|
-| Mobile engineering | Cross-platform apps with Flutter and Dart |
-| Product development | Turning requirements and designs into usable products |
-| Application architecture | Feature organization, state management, navigation, maintainability |
-| API integration | REST APIs, authentication flows, data handling, error states |
-| Firebase development | Authentication, Firestore, Storage, push notifications |
-| Offline-first features | Local persistence and SQLite-based workflows |
-| Device integrations | Bluetooth Low Energy and beacon-based functionality |
-| Release management | App Store Connect, TestFlight, certificates, review and release workflows |
-| Web engineering | React, Next.js, and frontend integration work |
+| Mobile | Flutter, Dart, cross-platform application development |
+| State & navigation | Riverpod, GoRouter |
+| Frontend | React, Next.js, Angular, TypeScript, JavaScript |
+| Backend | Node.js, Django, REST APIs |
+| Cloud services | Firebase Authentication, Firestore, Storage, push notifications |
+| Local data | SQLite, offline-first workflows |
+| Connectivity | Bluetooth Low Energy, beacon-based functionality |
+| Release workflows | App Store Connect, TestFlight, certificates, app review |
+| Collaboration | Git, Jira, Trello, Notion, Figma |
+
+</details>
 
 ---
 
-## 04 / FEATURED PROJECTS
+## 03 / SELECTED WORK
 
-A selection of products I've built, contributed to, or developed as part of client work.
+<div align="center">
 
-<details>
-<summary><strong>01. OSAC GMS — Garage Management System</strong> · Flutter Web · Firebase</summary>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:555555,50:FFFFFF,100:555555&section=header" width="100%" alt="Section divider"/>
 
-A garage management platform built to support operational workflows across multiple roles.
+*Different problems. Different products. One focus on thoughtful engineering.*
 
-**Key contributions**
-- Developed a role-based Flutter web application for sales, administration, technicians, and finance workflows.
-- Implemented navigation and access patterns using Riverpod and GoRouter.
-- Worked on job cards, quotations, invoices, bookings, diary and resource management, technician check-in/check-out, and inventory workflows.
-- Integrated backend authentication using short-lived access tokens and refresh tokens delivered through HttpOnly cookies.
-- Supported deployment through Firebase Hosting.
+</div>
 
-**Technology:** Flutter, Dart, Riverpod, GoRouter, Firebase Hosting, REST APIs
+<details open>
+<summary><strong>01 — OSAC GMS</strong> &nbsp; / &nbsp; Garage Management System</summary>
 
-</details>
+<br/>
 
-<details>
-<summary><strong>02. UJ WayFinder</strong> · Flutter · BLE · SQLite</summary>
+**A multi-role operational platform built with Flutter Web.**
 
-A university wayfinding application designed to help users navigate campus spaces.
+A garage management system designed around day-to-day workflows, from bookings and job cards to quotations and invoices.
 
-**Key contributions**
-- Developed mobile application functionality for campus navigation.
-- Worked with Bluetooth Low Energy beacons for proximity-based experiences.
-- Used local persistence to support relevant offline workflows.
+**What I worked on**
+- Role-based workflows for sales, administration, technicians, and finance.
+- Job cards, quotations, invoices, bookings, diary, resources, and inventory.
+- State management and navigation with Riverpod and GoRouter.
+- Backend authentication using short-lived access tokens and refresh tokens delivered through HttpOnly cookies.
+- Firebase Hosting deployment.
 
-**Technology:** Flutter, Dart, Bluetooth Low Energy, SQLite
+`FLUTTER WEB` `DART` `RIVERPOD` `GOROUTER` `FIREBASE` `REST APIs`
 
 </details>
 
 <details>
-<summary><strong>03. Waya Waya Mall</strong> · Flutter · Offline Workflows</summary>
+<summary><strong>02 — UJ WayFinder</strong> &nbsp; / &nbsp; Campus Navigation</summary>
 
-A mall-focused application built around offers, rewards, and visitor experiences.
+<br/>
 
-**Key contributions**
-- Developed application features for browsing mall offers and rewards.
-- Worked with offline data storage using SQLite.
-- Contributed to a shared codebase serving related client applications.
+**Helping users navigate university spaces.**
 
-**Technology:** Flutter, Dart, SQLite
+A university wayfinding application with location-aware functionality.
 
-</details>
+**What I worked on**
+- Mobile navigation experiences.
+- Bluetooth Low Energy beacon integration.
+- Local data storage to support offline workflows.
 
-<details>
-<summary><strong>04. FlavorFit — Meal Planner</strong> · Flutter · Nutrition</summary>
-
-A meal-planning application focused on calories and macronutrient tracking.
-
-**Key contributions**
-- Built product functionality around meal planning and nutrition information.
-- Worked on the mobile application experience and release workflow.
-
-**Platform:** iOS
-
-[View on the App Store](https://apps.apple.com/app/id6742183328)
+`FLUTTER` `DART` `BLE` `SQLITE`
 
 </details>
 
 <details>
-<summary><strong>05. Safe Again</strong> · Flutter · Firebase · Personal Safety</summary>
+<summary><strong>03 — Waya Waya Mall</strong> &nbsp; / &nbsp; Mall Offers & Rewards</summary>
 
-A personal-safety application focused on community-based safety features.
+<br/>
 
-**Key contributions**
-- Developed and maintained application features using Flutter and Firebase.
-- Worked on emergency signals for nearby verified users.
-- Contributed to location-based communities, chats, posts, history, and notifications.
-- Continued maintenance and release work after the initial development phase.
+**A mobile experience for mall visitors.**
 
-**Technology:** Flutter, Dart, Firebase
+An application centered on mall offers, rewards, and visitor-facing functionality.
 
-</details>
+**What I worked on**
+- Offer and rewards-related experiences.
+- Offline data persistence using SQLite.
+- Development within a shared codebase for related client applications.
 
-<details>
-<summary><strong>06. Woopdo</strong> · Flutter · Firebase · Social Product</summary>
-
-A social activity application with a short-form, engagement-oriented experience.
-
-**Key contributions**
-- Worked on the product initially using FlutterFlow and later Flutter.
-- Developed application functionality backed by Firebase.
-- Contributed to activity and badge-related product experiences.
-
-**Technology:** Flutter, Dart, FlutterFlow, Firebase
+`FLUTTER` `DART` `SQLITE` `MOBILE UX`
 
 </details>
 
 <details>
-<summary><strong>07. Mobiurja</strong> · Flutter · Mobile Product</summary>
+<summary><strong>04 — FlavorFit</strong> &nbsp; / &nbsp; Nutrition & Meal Planning</summary>
 
-A petrol-delivery application developed as part of my full-time product engineering experience.
+<br/>
 
-**Key contributions**
-- Contributed to mobile application development.
-- Worked within a product team on application features and delivery.
+**A meal-planning application focused on calories and macronutrients.**
 
-**Technology:** Flutter and associated mobile development tooling
+An iOS product built around nutrition information and meal planning.
+
+**What I worked on**
+- Mobile product functionality.
+- Nutrition-focused user workflows.
+- Application release and maintenance considerations.
+
+`FLUTTER` `DART` `NUTRITION`
+
+<br/>
+
+<a href="https://apps.apple.com/app/id6742183328">↗ View FlavorFit on the App Store</a>
 
 </details>
 
 <details>
-<summary><strong>08. Sportly</strong> · Flutter · Sports</summary>
+<summary><strong>05 — Safe Again</strong> &nbsp; / &nbsp; Personal Safety</summary>
+
+<br/>
+
+**A safety-focused application built around community and location.**
+
+A personal-safety product designed to connect users with nearby verified people and community features.
+
+**What I worked on**
+- Emergency signals for nearby verified users.
+- Location-based communities.
+- Chats, posts, history, and notifications.
+- Flutter and Firebase development, maintenance, and release work.
+
+`FLUTTER` `DART` `FIREBASE` `LOCATION` `NOTIFICATIONS`
+
+</details>
+
+<details>
+<summary><strong>06 — Woopdo</strong> &nbsp; / &nbsp; Social Activity</summary>
+
+<br/>
+
+**A social activity product with engagement-oriented experiences.**
+
+A product that evolved from FlutterFlow to Flutter with Firebase-backed functionality.
+
+**What I worked on**
+- Mobile application development.
+- Migration from an initial FlutterFlow implementation to Flutter.
+- Activity and badge-related functionality.
+
+`FLUTTER` `FLUTTERFLOW` `DART` `FIREBASE`
+
+</details>
+
+<details>
+<summary><strong>07 — Mobiurja</strong> &nbsp; / &nbsp; Petrol Delivery</summary>
+
+<br/>
+
+**A mobile product for petrol-delivery workflows.**
+
+Developed as part of my full-time product engineering experience at Chirpn IT Solutions.
+
+**Focus:** Mobile application development and product feature delivery.
+
+`FLUTTER` `MOBILE ENGINEERING`
+
+</details>
+
+<details>
+<summary><strong>08 — Sportly</strong> &nbsp; / &nbsp; Sports Application</summary>
+
+<br/>
 
 A sports-related mobile application developed during my time at Chirpn IT Solutions.
 
-**Key contributions**
-- Contributed to application development as part of a product team.
-- Worked on mobile functionality and product delivery.
+**Focus:** Application features and mobile product development within a team.
 
-**Technology:** Flutter and associated mobile development tooling
+`FLUTTER` `MOBILE ENGINEERING`
 
 </details>
 
 <details>
-<summary><strong>09. Social Share</strong> · Flutter · Social Links</summary>
+<summary><strong>09 — Social Share</strong> &nbsp; / &nbsp; Social Links</summary>
 
-A link-sharing application built around the idea of bringing multiple social links together in one place.
+<br/>
 
-**Key contributions**
-- Contributed to the development of a mobile product with a link-in-bio style concept.
-- Worked on application functionality as part of my full-time engineering role.
+A link-sharing application built around a link-in-bio style concept.
 
-**Technology:** Flutter and associated mobile development tooling
+**Focus:** Mobile application functionality and product delivery.
+
+`FLUTTER` `SOCIAL PRODUCT`
 
 </details>
 
 <details>
-<summary><strong>10. PURI</strong> · Flutter · Health Technology</summary>
+<summary><strong>10 — PURI</strong> &nbsp; / &nbsp; Urine Analysis</summary>
 
-A urine-analysis application developed as a time-bound product engagement.
+<br/>
 
-**Key contributions**
-- Worked on Flutter application development for approximately six months.
-- Contributed to the product during its development period.
+A health-technology application I worked on for approximately six months in 2022.
 
-**Technology:** Flutter, Dart
+**Focus:** Flutter application development during the product engagement.
+
+`FLUTTER` `DART` `HEALTH TECHNOLOGY`
 
 </details>
+
+<div align="center">
+
+[ **Explore my GitHub repositories →** ](https://github.com/satyyyaamm?tab=repositories)
+
+</div>
 
 ---
 
-## 05 / EXPERIENCE
+## 04 / THE JOURNEY
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:555555,50:FFFFFF,100:555555&section=header" width="100%" alt="Section divider"/>
+
+</div>
 
 ### Independent Product & Flutter Developer
 
 **Freelance / Independent Product Development**  
-*July 2022 – Present*
+`JUL 2022 — PRESENT`
 
-- Build mobile and web products for client and independent product work.
-- Develop Flutter applications with maintainable architecture, state management, and navigation.
-- Integrate Firebase services, REST APIs, authentication, and notifications.
-- Work across feature implementation, debugging, release preparation, and maintenance.
-- Collaborate with clients to translate product requirements into technical implementation.
-- Contribute to products across safety, nutrition, social experiences, navigation, and business operations.
+Building and maintaining mobile and web products across different industries and use cases.
+
+- Develop cross-platform applications using Flutter and Dart.
+- Integrate REST APIs, Firebase services, authentication, and notifications.
+- Structure applications with maintainable state management and navigation.
+- Work on debugging, feature delivery, release preparation, and ongoing maintenance.
+- Collaborate with clients to turn product requirements into working software.
 
 ### Associate Level 1
 
 **Chirpn IT Solutions**  
-*January 2021 – June 2022*
+`JAN 2021 — JUN 2022`
 
-- Worked as part of a product engineering team.
-- Contributed to mobile applications including Mobiurja, Social Share, and Sportly.
-- Gained experience developing and delivering application features in a team environment.
+Worked within a product engineering team contributing to mobile products, including Mobiurja, Social Share, and Sportly.
 
----
-
-## 06 / ENGINEERING PRINCIPLES
-
-### Keep the architecture useful
-
-I prefer architecture that makes features easier to understand and change, rather than adding abstraction without a clear benefit.
-
-### Use state management intentionally
-
-Not every temporary UI value needs global state. I choose an approach based on the scope, lifecycle, and complexity of the state.
-
-### Design for real application states
-
-Loading, empty, error, offline, and success states are part of the product — not edge cases to postpone.
-
-### Treat integrations as product features
-
-Authentication, API errors, device permissions, notifications, and release configuration all deserve careful implementation.
-
-### Build for maintenance
-
-Readable code, clear feature boundaries, and predictable navigation make ongoing development more sustainable.
+- Contributed to application feature development.
+- Worked on mobile product delivery in a team environment.
+- Built a foundation in shipping and maintaining application functionality.
 
 ---
 
-## 07 / CURRENT FOCUS
-
-- Building production-ready Flutter applications.
-- Improving application architecture and maintainability.
-- Developing product experiences that connect mobile applications with backend services.
-- Exploring practical applications of AI in software products and developer workflows.
-- Looking for opportunities to contribute to a product-focused engineering team.
-
----
-
-## 08 / GITHUB ACTIVITY
+## 05 / HOW I THINK ABOUT ENGINEERING
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyyyaamm&show_icons=true&hide_title=true&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=555555&icon_color=111111)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyyyaamm&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=555555)
+### 01. Useful architecture
 
-![GitHub Streak](https://streak-stats.demolab.com?user=satyyyaamm&hide_border=true&background=FFFFFF&ring=777777&fire=111111&currStreakLabel=111111&sideLabels=555555&currStreakNum=111111&sideNums=111111&dates=888888)
+Good architecture should reduce friction, not introduce ceremony. I prefer clear boundaries and abstractions that solve actual problems.
+
+</td>
+<td width="50%" valign="top">
+
+### 02. Intentional state
+
+A local UI value doesn't always need global state. State management should match the scope and lifecycle of the information.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 03. Real-world reliability
+
+Loading, empty, error, offline, and permission-denied states are part of the product — not afterthoughts.
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Maintainable delivery
+
+Readable code, predictable navigation, and consistent feature organization make future changes safer and faster.
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 09 / HOW I WORK
-
-My development workflow typically moves through a few clear stages:
-
-1. **Understand** — clarify the user problem, requirements, and constraints.
-2. **Structure** — define the screens, data flow, architecture, and integrations.
-3. **Build** — implement features with an emphasis on readable, maintainable code.
-4. **Validate** — test key flows, error handling, responsiveness, and device behavior.
-5. **Ship** — prepare builds, configure release requirements, and support deployment.
-6. **Improve** — address feedback, fix issues, and maintain the product over time.
-
-I also use AI-assisted development tools to speed up implementation and review while keeping engineering decisions and validation part of the process.
-
----
-
-## 10 / BEYOND THE CODE
-
-I enjoy working at the intersection of engineering and product thinking.
-
-That means looking beyond whether a feature works to consider whether it makes sense for the user, how it behaves under imperfect conditions, and how easily the team can improve it later.
-
-I'm especially interested in early-stage products where engineering decisions have a direct impact on the user experience.
-
----
-
-## 11 / LET'S CONNECT
-
-I'm open to conversations about Flutter engineering, mobile product development, freelance projects, and product-focused engineering opportunities.
+## 06 / CURRENTLY EXPLORING
 
 <div align="center">
 
-**Have a product to build or a team to strengthen?**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=Production-ready+Flutter+applications;Better+application+architecture;Mobile+%2B+backend+integration;AI-assisted+product+development" alt="Current interests"/>
 
-[Portfolio](https://www.buildwithsatyam.in) · [LinkedIn](https://www.linkedin.com/in/satyam-tiwari-a03299200/) · [GitHub](https://github.com/satyyyaamm) · [Email me](mailto:satyamt5152@gmail.com)
+</div>
+
+- Building reliable, production-ready Flutter applications.
+- Improving application architecture and maintainability.
+- Exploring useful AI-powered product experiences.
+- Connecting mobile applications with robust backend services.
+- Finding simpler ways to deliver high-quality software.
+
+---
+
+## 07 / GITHUB AT A GLANCE
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyyyaamm&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D0D0D&title_color=FFFFFF&text_color=BDBDBD&icon_color=FFFFFF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyyyaamm&hide_border=true&background=0D0D0D&ring=FFFFFF&fire=AAAAAA&currStreakLabel=FFFFFF&sideLabels=BDBDBD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=satyyyaamm&bg_color=0D0D0D&color=BDBDBD&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub contribution activity"/>
+
+</div>
+
+---
+
+## 08 / MY DEVELOPMENT WORKFLOW
+
+<div align="center">
+
+| `01` | `02` | `03` | `04` | `05` |
+|:---:|:---:|:---:|:---:|:---:|
+| **DISCOVER** | **DESIGN** | **BUILD** | **VALIDATE** | **SHIP** |
+| Understand the problem | Structure the solution | Implement features | Test real scenarios | Prepare delivery |
+
+</div>
+
+My usual approach is to clarify the requirements, define the data flow, build the feature, validate key states, and prepare the product for release.
+
+I also use AI-assisted development tools to accelerate implementation and code review, while keeping architectural decisions, debugging, and validation central to the process.
+
+---
+
+## 09 / BEYOND THE CODE
+
+I enjoy the intersection of engineering, product thinking, and design.
+
+A feature isn't finished just because it compiles. It should make sense to the person using it, behave predictably when things go wrong, and remain understandable to the person maintaining it.
+
+I'm especially interested in early-stage products, where thoughtful technical decisions can make a meaningful difference to the final experience.
+
+---
+
+## 10 / WHAT I'M LOOKING FOR
+
+I'm interested in opportunities where I can contribute to meaningful products and collaborate with engineers who care about quality.
+
+- Flutter and mobile engineering roles.
+- Product-focused software engineering teams.
+- Mobile applications backed by reliable APIs and cloud services.
+- Early-stage teams turning ideas into production products.
+- Freelance collaborations involving mobile or cross-platform development.
+
+**Preferred locations:** Pune, India · Remote
+
+---
+
+## 11 / LET'S BUILD SOMETHING
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:111111,50:292929,100:111111&text=HAVE%20AN%20IDEA%3F&fontSize=28&fontColor=FFFFFF&fontAlignY=45&desc=LET'S%20TURN%20IT%20INTO%20A%20PRODUCT.&descSize=12&descColor=BBBBBB&descAlignY=70" width="100%" alt="Let's build something banner"/>
+
+<br/>
+
+Whether you're building a mobile product, growing an engineering team, or exploring an idea, I'd be happy to connect.
+
+<br/>
+
+<a href="https://www.buildwithsatyam.in"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/satyam-tiwari-a03299200/"><img src="https://img.shields.io/badge/CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="Connect"/></a>
+<a href="mailto:satyamt5152@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Get in touch"/></a>
 
 </div>
 
@@ -352,69 +453,77 @@ I'm open to conversations about Flutter engineering, mobile product development,
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=satyyyaamm&bg_color=ffffff&color=444444&line=555555&point=111111&area=true&hide_border=true)
+[![Contribution Snake](https://raw.githubusercontent.com/satyyyaamm/satyyyaamm/output/github-contribution-grid-snake-dark.svg)](https://github.com/satyyyaamm)
 
 </div>
+
+<sub>Optional animation: the contribution snake appears after configuring a GitHub Actions workflow to generate and publish the SVG to the `output` branch.</sub>
 
 ---
 
 ## 13 / OPEN SOURCE & COLLABORATION
 
-I'm interested in collaborating on:
+I'm interested in working with developers and product teams on:
 
 - Flutter and Dart applications.
 - Mobile architecture and developer tooling.
-- Product-focused open-source projects.
-- Firebase-backed applications.
-- Practical AI-powered products.
+- Firebase-backed products.
+- Practical AI-powered applications.
+- Open-source tools that make development more productive.
 
-If you have an interesting project or an idea worth building, feel free to reach out.
+Have a project in mind? [Open a conversation on LinkedIn](https://www.linkedin.com/in/satyam-tiwari-a03299200/) or [send me an email](mailto:satyamt5152@gmail.com).
 
 ---
 
 ## 14 / PROFILE DETAILS
 
-| Detail | Information |
-|:--|:--|
-| Name | Satyam Tiwari |
-| Role | Flutter Developer · Product-Focused Engineer |
-| Experience | 5 years |
-| Primary stack | Flutter, Dart, Firebase |
-| Additional stack | React, Next.js, Node.js |
-| Location | Pune, India |
-| Work preference | Pune / Remote |
-| Portfolio | [buildwithsatyam.in](https://www.buildwithsatyam.in) |
-| LinkedIn | [Satyam Tiwari](https://www.linkedin.com/in/satyam-tiwari-a03299200/) |
-| Email | [satyamt5152@gmail.com](mailto:satyamt5152@gmail.com) |
-
----
-
-## 15 / SUPPORT MY WORK
-
-If something here is useful, feel free to explore my repositories, share feedback, or connect with me about a project.
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/Explore_my_GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/satyyyaamm)
-[![Portfolio](https://img.shields.io/badge/Visit_my_portfolio-444444?style=flat-square&logo=googlechrome&logoColor=white)](https://www.buildwithsatyam.in)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-666666?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-tiwari-a03299200/)
+| | |
+|:--|:--|
+| **ROLE** | Flutter Developer · Product-Focused Engineer |
+| **EXPERIENCE** | 5 years |
+| **PRIMARY STACK** | Flutter · Dart · Firebase |
+| **ADDITIONAL STACK** | React · Next.js · Node.js |
+| **LOCATION** | Pune, India |
+| **WORK PREFERENCE** | Pune · Remote |
+| **PORTFOLIO** | [buildwithsatyam.in](https://www.buildwithsatyam.in) |
+| **GITHUB** | [@satyyyaamm](https://github.com/satyyyaamm) |
+| **LINKEDIN** | [Satyam Tiwari](https://www.linkedin.com/in/satyam-tiwari-a03299200/) |
+| **CONTACT** | [satyamt5152@gmail.com](mailto:satyamt5152@gmail.com) |
 
 </div>
 
 ---
 
-## 16 / A NOTE ON BUILDING
-
-Good software is more than a collection of features.
-
-It's a combination of clear decisions, reliable behavior, thoughtful details, and code that someone can confidently work on tomorrow.
-
-That's the standard I try to bring to every product I build.
+## 15 / SUPPORT & FOLLOW
 
 <div align="center">
 
-**Build thoughtfully. Ship reliably. Keep improving.**
+If you like my work, explore my repositories, follow along, or share your feedback.
 
-<sub>Designed and maintained by Satyam Tiwari · Pune, India</sub>
+<a href="https://github.com/satyyyaamm?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="Explore repositories"/></a>
+
+<a href="https://github.com/satyyyaamm?tab=followers"><img src="https://img.shields.io/github/followers/satyyyaamm?style=for-the-badge&label=FOLLOWERS&color=333333&labelColor=111111" alt="GitHub followers"/></a>
+
+</div>
+
+---
+
+## 16 / THE PRINCIPLE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=BUILD+THOUGHTFULLY.;SHIP+RELIABLY.;KEEP+IMPROVING." alt="Build thoughtfully. Ship reliably. Keep improving."/>
+
+<br/>
+
+*Good software is a collection of thoughtful decisions.*
+
+<sub>Designed with intent · Built with curiosity · Maintained with care</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:050505,50:242424,100:050505" width="100%" alt="Footer wave"/>
 
 </div>
